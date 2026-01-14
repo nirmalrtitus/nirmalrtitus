@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalrtitus&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalrtitus" /> </p>
 
-- 🔭 I’m currently working on **Spy_X**
+- 🔭 I’m currently working on **MediRAG**
 
 - 🌱 I’m currently learning **Firebase,React,TypeScript,AI/ML**
 
